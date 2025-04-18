@@ -1,2 +1,2 @@
 # xingyingqing-clone-
-a game clone
+a game clone!
